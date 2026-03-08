@@ -1,0 +1,15 @@
+.container {
+  padding: 20px;
+}
+
+.plant-grid {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
+
+.plant-card {
+  border: 1px solid #ccc;
+  padding: 15px;
+  text-align: center;
+}
